@@ -41,7 +41,6 @@ b[i]=new Book(n,a,pr,p);
 }
   for(i=0;i<z;i++)
 {
-//b[i].get();
 System.out.println(b[i]);
 }
 }
